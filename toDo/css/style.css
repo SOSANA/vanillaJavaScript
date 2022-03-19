@@ -11,10 +11,12 @@ body {
   padding: 10px;
   width: 380px;
   margin: 0 auto;
+  /* border: 5px solid #f7f70b; */
 }
 
 /* ------------ header ------------ */
 .header {
+  /* border: 5px solid rgb(10, 238, 10); */
   width: 380px;
   height: 200px;
   background-image: url('../img/bg2.jpg');
@@ -50,6 +52,7 @@ body {
 
 /* ------------ content ------------ */
 .content {
+  /* border: 5px solid rgb(246, 6, 6); */
   width: 380px;
   height: 350px;
   max-height: 350px;
@@ -112,6 +115,7 @@ body {
 }
 /* ------------ add item ------------ */
 .add-to-do {
+  /* border: 5px solid rgb(30, 6, 246); */
   position: relative;
   width: 360px;
   height: 40px;
