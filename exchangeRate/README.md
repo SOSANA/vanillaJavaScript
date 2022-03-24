@@ -3,7 +3,7 @@
 
 A to do app that lets you add, delete, complete and clear all tasks with local storage to persist data to the browser
 
-<img src="../assets/toDo.png" width="500">
+<img src="/assets/toDo.gif" width="500">
 </h1>
 </div>
 

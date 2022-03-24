@@ -3,7 +3,7 @@
 
 A mediation app with a breathing visual to tell you when to breathe in, hold and breathe out
 
-<img src="/assets/chillaxer.gif" alt="Markdownify" width="500">
+<img src="../assets/chillaxer.png" alt="Markdownify" width="500">
 </h1>
 </div>
 
