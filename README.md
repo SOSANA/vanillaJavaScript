@@ -15,3 +15,5 @@
 <a href="https://sosana.github.io/vanillaJavaScript/exchangeRate/" target="_blank">Exchange Rate</a> - select two different country currency rates for conversion
 
 <a href="https://sosana.github.io/vanillaJavaScript/passGen/" target="_blank">Password Generator</a> - create passwords
+
+<a href="https://sosana.github.io/vanillaJavaScript/formatWealth/" target="_blank">Wealth Formater</a> - various options to format users wealth
